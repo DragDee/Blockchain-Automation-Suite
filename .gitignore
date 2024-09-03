@@ -1,0 +1,5 @@
+__pycache__
+.idea
+data\prvt_key.py
+venv
+create_database.py
